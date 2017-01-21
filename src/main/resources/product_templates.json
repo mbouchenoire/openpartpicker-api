@@ -1,0 +1,14 @@
+{
+  "product_templates": [
+    {
+      "type": "uav",
+      "parts": [
+        {
+          "type": "airframe",
+          "key_part": true,
+          "optional": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "frames": [
+    {
+      "name": "Skywalker 1680",
+      "attributes": {
+        "wingspan": "1720",
+        "length": "1180",
+        "weight": "1115"
+      },
+      "dependencies": [
+        {
+          "type": "motors",
+          "quantity": 1,
+          "attributes": [
+            {
+              "type": "radius",
+              "eq": "35"
+            },
+            {
+              "type": "power",
+              "min": "400"
+            }
+          ]
+        },
+        {
+          "type": "servos",
+          "quantity": 4,
+          "attributes": [
+            {
+              "type": "weight",
+              "eq": "9"
+            }
+          ]
+        },
+        {
+          "type": "batteries",
+          "quantity": 1,
+          "attributes": [
+            {
+              "type": "capacity",
+              "min": "5000"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "HobbyKing",
+          "href": "https://hobbyking.com/en_us/skywalker-1680-v6-wingspan-1720mm-kit.html"
+        }
+      ]
+    },
+    {
+      "name": "HobbyKing Bixler 2",
+      "attributes": {
+        "wingspan": "1500",
+        "length": "963",
+        "weight": "760"
+      },
+      "dependencies": [
+        {
+          "type": "motors",
+          "quantity": 1,
+          "names": [
+            "Hobbyking Bixler 2 EPO 1500mm - Replacement Brushless Motor (1300kv)"
+          ]
+        },
+        {
+          "type": "servos",
+          "comment": "for Ailerons, Elevator and Rudder",
+          "quantity": 4,
+          "attributes": [
+            {
+              "type": "weight",
+              "eq": "9"
+            }
+          ]
+        },
+        {
+          "type": "servos",
+          "comment": "for Flaps (Optional)",
+          "quantity": 2,
+          "optional": true,
+          "attributes": [
+            {
+              "type": "weight",
+              "eq": "9"
+            }
+          ]
+        },
+        {
+          "type": "batteries",
+          "quantity": 1,
+          "attributes": [
+            {
+              "type": "capacity",
+              "min": "1800"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

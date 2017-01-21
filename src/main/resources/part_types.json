@@ -1,0 +1,24 @@
+{
+  "part_types": [
+    {
+      "type": "airframe",
+      "file": "frames.json"
+    },
+    {
+      "type": "motor",
+      "file": "motors.json"
+    },
+    {
+      "type": "servo",
+      "file": "servos.json"
+    },
+    {
+      "type": "esc",
+      "file": "esc.json"
+    },
+    {
+      "type": "battery",
+      "file": "batteries.json"
+    }
+  ]
+}

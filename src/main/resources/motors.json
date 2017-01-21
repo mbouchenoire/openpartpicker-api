@@ -1,0 +1,50 @@
+{
+  "motors": [
+    {
+      "name": "NTM Prop Drive Series 35-42A 1250Kv",
+      "attributes": {
+          "kv": "1250",
+          "max_power@12v": "500",
+          "max_power@15v": "600",
+          "weight": "148",
+          "esc": "60"
+      },
+      "dependencies": [
+        {
+          "type": "battery",
+          "quantity": 1
+        },
+        {
+          "type": "esc",
+          "quantity": 1
+        }
+      ],
+      "links": [
+        {
+          "title": "HobbyKing",
+          "href": "https://hobbyking.com/en_us/ntm-prop-drive-series-35-42a-1250kv-600w.html"
+        }
+      ]
+    },
+    {
+      "name": "Hobbyking Bixler 2 EPO 1500mm - Replacement Brushless Motor (1300kv)",
+      "attributes": {},
+      "dependencies": [
+        {
+          "type": "battery",
+          "quantity": 1
+        },
+        {
+          "type": "esc",
+          "quantity": 1
+        }
+      ],
+      "links": [
+        {
+          "title": "HobbyKing",
+          "href": "https://hobbyking.com/en_us/hobbyking-bixler-2-epo-1500mm-replacement-brushless-motor-1300kv.html"
+        }
+      ]
+    }
+  ]
+}

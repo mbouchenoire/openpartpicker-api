@@ -1,0 +1,42 @@
+{
+  "batteries": [
+    {
+      "name": "ZIPPY Flightmax 5000mAh 3S1P 30C",
+      "attributes": {
+          "capacity": "5000",
+          "cells": "3",
+          "voltage": "11.1",
+          "weight": "408",
+          "length": "144",
+          "width": "51",
+          "height": "27"
+      },
+      "dependencies": [],
+      "links": [
+        {
+          "title": "HobbyKing",
+          "href": "https://hobbyking.com/en_us/zippy-flightmax-5000mah-3s1p-30c.html"
+        }
+      ]
+    },
+    {
+      "name": "Turnigy nano-tech 2200mah 3S 25~50C Lipo Pack",
+      "attributes": {
+          "capacity": "2200",
+          "cells": "3",
+          "voltage": "11.1",
+          "weight": "187",
+          "length": "106",
+          "width": "35",
+          "height": "24"
+      },
+      "dependencies": [],
+      "links": [
+        {
+          "title": "HobbyKing",
+          "href": "https://hobbyking.com/en_us/turnigy-nano-tech-2200mah-3s-25-50c-lipo-pack.html"
+        }
+      ]
+    }
+  ]
+}

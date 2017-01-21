@@ -1,0 +1,34 @@
+{
+  "servos": [
+    {
+      "name": "HobbyKing™ HK15178I High Speed Digital Metal Gear Servo BB 0.85kg / 0.06sec / 9.8g",
+      "attributes": {
+          "torque@4.8v": "0.75",
+          "torque@6v": "0.85",
+          "speed@4.8v": "0.08",
+          "speed@6v": "0.06",
+          "length": "22.9",
+          "width": "12",
+          "height": "27.3",
+          "weight": "9.8"
+      },
+      "dependencies": [],
+      "links": [
+        {
+          "title": "HobbyKing",
+          "href": "https://hobbyking.com/en_us/hobbykingtm-hk15178i-high-speed-digital-metal-gear-servo-bb-0-85kg-0-06sec-9-8g.html"
+        }
+      ]
+    },
+    {
+      "name": "HXT900 Micro Servo 1.6kg / 0.12sec / 9g",
+      "attributes": {
+          "speed@4.8v": "0.12",
+          "length": "21",
+          "width": "12",
+          "height": "22",
+          "weight": "9"
+      }
+    }
+  ]
+}

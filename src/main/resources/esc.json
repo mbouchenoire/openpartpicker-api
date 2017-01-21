@@ -1,0 +1,40 @@
+{
+  "esc": [
+    {
+      "name": "AeroStar Advance 65A ESC w/8A BEC",
+      "attributes": {
+        "constant_current": "65",
+        "burst_current": "85",
+        "weight": "68",
+        "length": "68",
+        "width": "33",
+        "height": "16"
+      },
+      "dependencies": [],
+      "links": [
+        {
+          "title": "HobbyKing",
+          "href": "https://hobbyking.com/en_us/aerostar-advance-65a-esc-w-8a-bec.html"
+        }
+      ]
+    },
+    {
+      "name": "HobbyKing 20A BlueSeries Brushless Speed Controller",
+      "attributes": {
+        "constant_current": "20",
+        "burst_current": "30",
+        "weight": "20",
+        "length": "34",
+        "width": "23",
+        "height": "9"
+      },
+      "dependencies": [],
+      "links": [
+        {
+          "title": "HobbyKing",
+          "href": "https://hobbyking.com/en_us/hobbyking-20a-blueseries-brushless-speed-controller.html"
+        }
+      ]
+    }
+  ]
+}
